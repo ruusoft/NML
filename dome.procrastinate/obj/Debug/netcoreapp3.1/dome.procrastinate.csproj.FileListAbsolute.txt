@@ -1,0 +1,10 @@
+D:\Test System\dome.procrastinate\bin\Debug\netcoreapp3.1\dome.procrastinate.deps.json
+D:\Test System\dome.procrastinate\bin\Debug\netcoreapp3.1\dome.procrastinate.dll
+D:\Test System\dome.procrastinate\bin\Debug\netcoreapp3.1\dome.procrastinate.pdb
+D:\Test System\dome.procrastinate\obj\Debug\netcoreapp3.1\dome.procrastinate.csproj.AssemblyReference.cache
+D:\Test System\dome.procrastinate\obj\Debug\netcoreapp3.1\dome.procrastinate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test System\dome.procrastinate\obj\Debug\netcoreapp3.1\dome.procrastinate.AssemblyInfoInputs.cache
+D:\Test System\dome.procrastinate\obj\Debug\netcoreapp3.1\dome.procrastinate.AssemblyInfo.cs
+D:\Test System\dome.procrastinate\obj\Debug\netcoreapp3.1\dome.procrastinate.csproj.CoreCompileInputs.cache
+D:\Test System\dome.procrastinate\obj\Debug\netcoreapp3.1\dome.procrastinate.dll
+D:\Test System\dome.procrastinate\obj\Debug\netcoreapp3.1\dome.procrastinate.pdb

@@ -1,0 +1,12 @@
+D:\Test System\dome.procrastinate\bin\Debug\net6.0\dome.procrastinate.deps.json
+D:\Test System\dome.procrastinate\bin\Debug\net6.0\dome.procrastinate.dll
+D:\Test System\dome.procrastinate\bin\Debug\net6.0\dome.procrastinate.pdb
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\dome.procrastinate.csproj.AssemblyReference.cache
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\dome.procrastinate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\dome.procrastinate.AssemblyInfoInputs.cache
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\dome.procrastinate.AssemblyInfo.cs
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\dome.procrastinate.csproj.CoreCompileInputs.cache
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\dome.procrastinate.dll
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\refint\dome.procrastinate.dll
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\dome.procrastinate.pdb
+D:\Test System\dome.procrastinate\obj\Debug\net6.0\ref\dome.procrastinate.dll
